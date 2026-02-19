@@ -16,8 +16,6 @@ This project focuses on adapting a pretrained causal language model to perform h
 - Parameter-Efficient Fine-Tuning (LoRA)
 - Causal Language Modeling for Translation
 - Mixed-Precision Training
-- Gradient Accumulation for Memory Efficiency
-- Hugging Face Transformers and PEFT framework
 
 ---
 
@@ -27,5 +25,4 @@ This project focuses on adapting a pretrained causal language model to perform h
 - Data formatted as instruction-style prompts suitable for causal LM training
 - Preprocessing includes tokenization, truncation, and alignment of source–target pairs
 
-Example prompt format:
 
